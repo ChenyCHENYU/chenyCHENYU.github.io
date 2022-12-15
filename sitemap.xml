@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.tzagileteam.com/github_action/</loc>
+    
+    <lastmod>2022-12-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tzagileteam.com/404.html</loc>
     
     <lastmod>2022-12-15</lastmod>
@@ -110,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/waterfalls_and_visiblelist/</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tzagileteam.com/web_components/</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/vue_use1/</loc>
+    <loc>https://www.tzagileteam.com/waterfalls_and_visiblelist/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -138,6 +138,15 @@
   
   <url>
     <loc>https://www.tzagileteam.com/vue_web_components/</loc>
+    
+    <lastmod>2022-12-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tzagileteam.com/vue_use1/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -173,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/video_yztx/</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tzagileteam.com/vscode_extension_two/</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/renew_domains/</loc>
+    <loc>https://www.tzagileteam.com/video_yztx/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/one_wallhaven/</loc>
+    <loc>https://www.tzagileteam.com/renew_domains/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -227,6 +227,15 @@
   </url>
   
   <url>
+    <loc>https://www.tzagileteam.com/one_wallhaven/</loc>
+    
+    <lastmod>2022-12-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tzagileteam.com/pjax_dynamic_plugins/</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -236,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/jsasync/</loc>
+    <loc>https://www.tzagileteam.com/mongodb_sql/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -245,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/mongodb_sql/</loc>
+    <loc>https://www.tzagileteam.com/jsasync/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -272,15 +281,6 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/helloword/</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tzagileteam.com/hexo-theme-async/</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/git_stash/</loc>
+    <loc>https://www.tzagileteam.com/helloword/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/github_action/</loc>
+    <loc>https://www.tzagileteam.com/git_stash/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -353,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/cloudbase_comment_two/</loc>
+    <loc>https://www.tzagileteam.com/css_filter/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -362,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/css_filter/</loc>
+    <loc>https://www.tzagileteam.com/cloudbase_comment_two/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -444,21 +444,14 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/tags/devenv/</loc>
-    <lastmod>2022-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tzagileteam.com/tags/node/</loc>
-    <lastmod>2022-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tzagileteam.com/tags/JavaScript/</loc>
+    <lastmod>2022-12-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tzagileteam.com/tags/devenv/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -479,7 +472,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/tags/electron/</loc>
+    <loc>https://www.tzagileteam.com/tags/node/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -493,7 +486,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/tags/git/</loc>
+    <loc>https://www.tzagileteam.com/tags/electron/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -507,7 +500,7 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/tags/hello-world/</loc>
+    <loc>https://www.tzagileteam.com/tags/git/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -521,6 +514,13 @@
   </url>
   
   <url>
+    <loc>https://www.tzagileteam.com/tags/hello-world/</loc>
+    <lastmod>2022-12-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tzagileteam.com/tags/MongoDB/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -528,14 +528,14 @@
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/tags/Pjax/</loc>
+    <loc>https://www.tzagileteam.com/tags/vscode/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.tzagileteam.com/tags/vscode/</loc>
+    <loc>https://www.tzagileteam.com/tags/Pjax/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
