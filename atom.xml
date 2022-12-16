@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yangchenyu.com/"/>
-  <updated>2022-12-14T12:36:41.250Z</updated>
+  <updated>2022-12-16T05:37:55.895Z</updated>
   <id>https://www.yangchenyu.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于 Vue3、Typescript、Vite3、Element-plus 构建通用后台</title>
+    <link href="https://www.yangchenyu.com/admin_template/"/>
+    <id>https://www.yangchenyu.com/admin_template/</id>
+    <published>2022-11-15T02:16:09.000Z</published>
+    <updated>2022-12-16T05:37:55.895Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;正好没那么忙了，打算造轮子玩玩，希望帮到伙伴，用 vue3 + element-plus 撸个后台模板。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="创作类" scheme="https://www.yangchenyu.com/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.yangchenyu.com/tags/vue/"/>
+    
+      <category term="vuex" scheme="https://www.yangchenyu.com/tags/vuex/"/>
+    
+      <category term="vue-route" scheme="https://www.yangchenyu.com/tags/vue-route/"/>
+    
+      <category term="elemelt-ui" scheme="https://www.yangchenyu.com/tags/elemelt-ui/"/>
+    
+  </entry>
   
   <entry>
     <title>瀑布流使用虚拟列表性能优化</title>
@@ -38,22 +65,22 @@
   </entry>
   
   <entry>
-    <title>做了个壁纸小程序😀</title>
+    <title>做了个壁纸小程序 😀</title>
     <link href="https://www.yangchenyu.com/blgz/"/>
     <id>https://www.yangchenyu.com/blgz/</id>
     <published>2022-10-18T07:08:29.000Z</published>
-    <updated>2022-12-14T12:36:41.236Z</updated>
+    <updated>2022-12-16T05:02:19.753Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;各种壁纸app，壁纸小程序打开全是各种广告，太影响使用体验，自己整了个壁纸小程序，简单无广告🤣&lt;/p&gt;
+      &lt;p&gt;各种壁纸 app，壁纸小程序打开全是各种广告，太影响使用体验，自己整了个壁纸小程序，简单无广告 🤣&lt;/p&gt;
 &lt;p&gt;附上小程序码：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://img.lkxin.cn/tu/2022/10/18/634e537320ee3.jpg&quot; alt=&quot;xcx.jpg&quot;&gt;&lt;em&gt;壁了个纸&lt;/em&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="创造类" scheme="https://www.yangchenyu.com/categories/%E5%88%9B%E9%80%A0%E7%B1%BB/"/>
+      <category term="转载" scheme="https://www.yangchenyu.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
       <category term="小程序" scheme="https://www.yangchenyu.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
@@ -82,21 +109,21 @@
   </entry>
   
   <entry>
-    <title>hexo-theme-async 文档上线了🤣</title>
+    <title>hexo-theme-async 文档上线了 🤣</title>
     <link href="https://www.yangchenyu.com/hexo-theme-async/"/>
     <id>https://www.yangchenyu.com/hexo-theme-async/</id>
     <published>2022-09-07T07:29:25.000Z</published>
-    <updated>2022-12-14T12:36:41.241Z</updated>
+    <updated>2022-12-16T05:11:19.818Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;https://img.lkxin.cn/tu/2022/09/22/632c1767d795b.png&quot; alt=&quot;demo&quot;&gt;&lt;em&gt;预览图&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;时隔几个月，拖拖拉拉的终于整理好了一份使用指南。下次终于可以甩个文档连接了🤣，再也不用一个个解释了。&lt;/p&gt;
+&lt;p&gt;时隔几个月，拖拖拉拉的终于整理好了一份使用指南。下次终于可以甩个文档连接了 🤣，再也不用一个个解释了。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="记录类" scheme="https://www.yangchenyu.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+      <category term="转载" scheme="https://www.yangchenyu.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
       <category term="hexo" scheme="https://www.yangchenyu.com/tags/hexo/"/>
@@ -127,7 +154,7 @@
     <link href="https://www.yangchenyu.com/cloudbase_comment_two/"/>
     <id>https://www.yangchenyu.com/cloudbase_comment_two/</id>
     <published>2022-02-11T02:28:39.000Z</published>
-    <updated>2022-12-14T12:36:41.237Z</updated>
+    <updated>2022-12-16T05:17:35.719Z</updated>
     
     <summary type="html">
     
@@ -163,25 +190,6 @@
       <category term="vue" scheme="https://www.yangchenyu.com/tags/vue/"/>
     
       <category term="WebComponents" scheme="https://www.yangchenyu.com/tags/WebComponents/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>续费域名了</title>
-    <link href="https://www.yangchenyu.com/renew_domains/"/>
-    <id>https://www.yangchenyu.com/renew_domains/</id>
-    <published>2021-11-09T11:29:24.000Z</published>
-    <updated>2022-12-14T12:36:41.245Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;八月份的时候就看到域名要涨价了，想着续费来自，忙了一阵忘记这茬了。再想起了就现在了，血亏了一波。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="记录类" scheme="https://www.yangchenyu.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
-    
     
   </entry>
   
@@ -275,7 +283,7 @@
     <link href="https://www.yangchenyu.com/generate_vue_docs/"/>
     <id>https://www.yangchenyu.com/generate_vue_docs/</id>
     <published>2021-07-29T02:44:00.000Z</published>
-    <updated>2022-12-14T12:36:41.239Z</updated>
+    <updated>2022-12-16T05:22:50.604Z</updated>
     
     <summary type="html">
     
@@ -284,7 +292,7 @@
     </summary>
     
     
-      <category term="记录类" scheme="https://www.yangchenyu.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+      <category term="转载" scheme="https://www.yangchenyu.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
       <category term="vue" scheme="https://www.yangchenyu.com/tags/vue/"/>
