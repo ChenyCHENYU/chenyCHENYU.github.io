@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/projects/index.html</loc>
+    <loc>https://www.yangchenyu.com/message/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/message/index.html</loc>
+    <loc>https://www.yangchenyu.com/projects/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -209,15 +209,6 @@
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/vue_keep_alive/</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yangchenyu.com/vue_hoc/</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -227,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/vscode_extension/</loc>
+    <loc>https://www.yangchenyu.com/vue_keep_alive/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -237,6 +228,15 @@
   
   <url>
     <loc>https://www.yangchenyu.com/video_yztx/</loc>
+    
+    <lastmod>2022-12-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yangchenyu.com/vscode_extension/</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -433,21 +433,14 @@
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/tags/devenv/</loc>
-    <lastmod>2022-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yangchenyu.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2022-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yangchenyu.com/tags/node/</loc>
+    <lastmod>2022-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yangchenyu.com/tags/devenv/</loc>
     <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -461,6 +454,13 @@
   </url>
   
   <url>
+    <loc>https://www.yangchenyu.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2022-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yangchenyu.com/tags/electron/</loc>
     <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -468,14 +468,14 @@
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/tags/Flutter/</loc>
+    <loc>https://www.yangchenyu.com/tags/git/</loc>
     <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/tags/git/</loc>
+    <loc>https://www.yangchenyu.com/tags/Flutter/</loc>
     <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -510,14 +510,14 @@
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/tags/vscode/</loc>
+    <loc>https://www.yangchenyu.com/tags/video/</loc>
     <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yangchenyu.com/tags/video/</loc>
+    <loc>https://www.yangchenyu.com/tags/vscode/</loc>
     <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
